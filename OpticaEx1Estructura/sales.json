@@ -1,0 +1,20 @@
+{
+  "_id": "64a7b123c9e8f123456789f1",
+  "sale_date": "2026-03-30T17:15:00Z",
+
+  "client_id": "64a7b123c9e8f123456789a3",
+  "employee_id": "64a7b123c9e8f123456789a2",
+
+  "glasses": {
+    "brand": "Oakley",
+    "left_graduation": -2.00,
+    "right_graduation": -2.25,
+    "frame_type": "flotante",
+    "frame_color": "Azul",
+    "left_lens_color": "Oscuro",
+    "right_lens_color": "Oscuro",
+    "price": 189.50,
+
+    "provider_id": "64a7b123c9e8f123456789a1"
+  }
+}

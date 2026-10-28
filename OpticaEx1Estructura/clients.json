@@ -1,0 +1,12 @@
+{
+  "_id": "64a7b123c9e8f123456789a3",
+  "name": "Carlos Pérez",
+  "address": "Paseo de Gracia 12, Barcelona",
+  "phone": "600333444",
+  "email": "carlos.perez@email.com",
+  "registration_date": "2026-03-01",
+  "recommended_by": {
+    "client_id": "64a7b123c9e8f12345678999",
+    "name": "Ana García"
+  }
+}

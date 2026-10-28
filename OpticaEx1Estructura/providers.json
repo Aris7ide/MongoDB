@@ -1,0 +1,16 @@
+{
+  "_id": "64a7b123c9e8f123456789a1",
+  "name": "Opticas Centrales S.A.",
+  "address": {
+    "street": "Calle Mayor",
+    "number": "45",
+    "floor": "2",
+    "door": "1ª",
+    "city": "Barcelona",
+    "postal_code": "08001",
+    "country": "España"
+  },
+  "phone": "+34933000000",
+  "fax": "+34933000001",
+  "nif": "A12345678"
+}
