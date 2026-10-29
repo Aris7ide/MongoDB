@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "64a7b123c9e8f123456789a2",
+
+    "date": "",
+
+    "client_id": "64a7b123c9e8f123456789a3",
+    "employee_id": "64a7b123c9e8f123456789b1"
+  },
+  {
+    "_id": "64a7b123c9e8f123456789f2",
+
+    "date": "",
+
+    "client_id": "64a7b123c9e8f123456789a3",
+    "employee_id": "64a7b123c9e8f123456789b1"
+  },
+  {
+    "_id": "64a7b123c9e8f123456789f1",
+
+    "date": "",
+
+    "client_id": "64a7b123c9e8f123456789a3",
+    "employee_id": "64a7b123c9e8f123456789b1"
+  }
+]

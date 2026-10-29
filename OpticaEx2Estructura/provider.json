@@ -1,0 +1,17 @@
+{
+  "_id": "64a7b123c9e8f123456789a1",
+
+  "name": "",
+  "address": {
+    "street": "",
+    "number": "",
+    "floor": "",
+    "door": "",
+    "city": "",
+    "postal_code": 0,
+    "country": ""
+  },
+  "phone": "",
+  "fax": "",
+  "nif": ""
+}

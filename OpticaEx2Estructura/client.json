@@ -1,0 +1,22 @@
+[{
+  "_id": "64a7b123c9e8f123456789a3",
+
+  "name": "",
+  "address": "",
+  "phone": "",
+  "email": "",
+  "registration_date": "",
+
+  "recommended_by": "64a7b123c9e8f123456789c2"
+},
+{
+  "_id": "64a7b123c9e8f123456789c2",
+
+  "name": "",
+  "address": "",
+  "phone": "",
+  "email": "",
+  "registration_date": "",
+
+  "recommended_by": ""
+}]

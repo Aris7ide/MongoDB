@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "p1",
+    "category": "Drink",
+    "name": "Water",
+    "price": 4.5
+  },
+  {
+    "_id": "p2",
+    "category": "Drink",
+    "name": "Coke",
+    "price": 7.0
+  },
+  {
+    "_id": "p3",
+    "category": "Hamburguer",
+    "name": "Double Hamburguer",
+    "price": 12.5
+  },
+  {
+    "_id": "p4",
+    "category": "Hamburguer",
+    "name": "Cheese Hamburguer",
+    "price": 11.5
+  },
+  {
+    "_id": "p5",
+    "category": "Pizza",
+    "name": "Pizza BBQ",
+    "price": 10.7
+  },
+  {
+    "_id": "p6",
+    "category": "Pizza",
+    "name": "Pizza Margherita",
+    "price": 7.5
+  },
+  {
+    "_id": "ex1",
+    "category": "Extras",
+    "name": "thin doug",
+    "price": 1.5
+  }
+]

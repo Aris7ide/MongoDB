@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "64a7b123c9e8f123456789f1",
+
+    "brand": "",
+    "frame_type": "",
+
+    "provider_id": "64a7b123c9e8f123456789a1",
+
+    "price": 0.0,
+
+    "sales": [
+      {"sale_id": "64a7b123c9e8f123456789a2"},
+      {"sale_id": "64a7b123c9e8f123456789f2"}
+    ]
+  },
+  {
+    "_id": "64a7b123c9e8f123456789f2",
+
+    "brand": "",
+    "frame_type": "",
+
+    "provider_id": "64a7b123c9e8f123456789a1",
+
+    "price": 0.0,
+
+    "sales": [
+  {"sale_id": "64a7b123c9e8f123456789f1"}
+  ]
+  }
+]
